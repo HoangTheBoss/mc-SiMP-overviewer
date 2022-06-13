@@ -27,7 +27,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1655102124",
+        "cacheTag": "1655111298",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -65,7 +65,9 @@ var overviewerConfig = {
                 161,
                 -70
             ],
-            "north_direction": 2
+            "north_direction": 2,
+            "render_in_progress": true,
+            "forcerendertime": 1655111279
         },
         {
             "name": "Overwold Daytime Flipped",
@@ -92,7 +94,9 @@ var overviewerConfig = {
                 161,
                 -70
             ],
-            "north_direction": 0
+            "north_direction": 0,
+            "render_in_progress": true,
+            "forcerendertime": 1655111293
         },
         {
             "name": "Overwold Nighttime",
@@ -119,7 +123,9 @@ var overviewerConfig = {
                 161,
                 -70
             ],
-            "north_direction": 2
+            "north_direction": 2,
+            "render_in_progress": true,
+            "forcerendertime": 1655111293
         },
         {
             "name": "Overwold Nighttime Flipped",
@@ -146,7 +152,9 @@ var overviewerConfig = {
                 161,
                 -70
             ],
-            "north_direction": 0
+            "north_direction": 0,
+            "render_in_progress": true,
+            "forcerendertime": 1655111293
         }
     ]
 };
