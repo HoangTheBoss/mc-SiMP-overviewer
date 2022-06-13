@@ -27,7 +27,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1655113961",
+        "cacheTag": "1655152475",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -49,7 +49,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "simp - overworld",
-            "last_rendertime": 1655111285,
+            "last_rendertime": 1655148753,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
@@ -59,6 +59,7 @@ var overviewerConfig = {
                 64,
                 -990
             ],
+            "lastrenderversion": 2,
             "minZoom": 0,
             "spawn": [
                 56,
@@ -76,7 +77,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "simp - overworld",
-            "last_rendertime": 1655111285,
+            "last_rendertime": 1655148753,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
@@ -86,6 +87,7 @@ var overviewerConfig = {
                 64,
                 -990
             ],
+            "lastrenderversion": 2,
             "minZoom": 0,
             "spawn": [
                 56,
@@ -103,7 +105,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "simp - overworld",
-            "last_rendertime": 1655111285,
+            "last_rendertime": 1655148753,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
@@ -113,6 +115,7 @@ var overviewerConfig = {
                 64,
                 -990
             ],
+            "lastrenderversion": 2,
             "minZoom": 0,
             "spawn": [
                 56,
@@ -130,7 +133,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "simp - overworld",
-            "last_rendertime": 1655111296,
+            "last_rendertime": 1655148753,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
@@ -140,6 +143,7 @@ var overviewerConfig = {
                 64,
                 -990
             ],
+            "lastrenderversion": 2,
             "minZoom": 0,
             "spawn": [
                 56,

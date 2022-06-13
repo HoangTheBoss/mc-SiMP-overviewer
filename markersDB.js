@@ -1,14 +1,14 @@
 var markersDB={
-  "Player_Spawnsb6d4_56d7": {
+  "Player_Spawnsfacb_6719": {
     "created": false,
     "name": "Player Spawns",
     "raw": [
       {
         "hovertext": "Spawn point of None",
         "text": "Spawn point of None",
-        "x": -218,
-        "y": 65,
-        "z": -848
+        "x": -49,
+        "y": 70,
+        "z": -948
       },
       {
         "hovertext": "Spawn point of None",
@@ -18,11 +18,11 @@ var markersDB={
         "z": -991
       },
       {
-        "hovertext": "Spawn point of WeirdKuma",
-        "text": "Spawn point of WeirdKuma",
-        "x": -13,
-        "y": 85,
-        "z": -953
+        "hovertext": "Spawn point of None",
+        "text": "Spawn point of None",
+        "x": -90,
+        "y": 76,
+        "z": -1022
       },
       {
         "hovertext": "Spawn point of None",
@@ -41,9 +41,9 @@ var markersDB={
       {
         "hovertext": "Spawn point of Minnxique",
         "text": "Spawn point of Minnxique",
-        "x": -366,
-        "y": 63,
-        "z": -1070
+        "x": -376,
+        "y": 64,
+        "z": -1053
       },
       {
         "hovertext": "Spawn point of None",
@@ -55,7 +55,7 @@ var markersDB={
       {
         "hovertext": "Spawn point of HoangTheBoss",
         "text": "Spawn point of HoangTheBoss",
-        "x": -10,
+        "x": -9,
         "y": 85,
         "z": -953
       },
@@ -89,16 +89,16 @@ var markersDB={
       }
     ]
   },
-  "Player_Spawnsb6d4_cde5": {
+  "Player_Spawnsfacb_6958": {
     "created": false,
     "name": "Player Spawns",
     "raw": [
       {
         "hovertext": "Spawn point of None",
         "text": "Spawn point of None",
-        "x": -218,
-        "y": 65,
-        "z": -848
+        "x": -49,
+        "y": 70,
+        "z": -948
       },
       {
         "hovertext": "Spawn point of None",
@@ -108,11 +108,11 @@ var markersDB={
         "z": -991
       },
       {
-        "hovertext": "Spawn point of WeirdKuma",
-        "text": "Spawn point of WeirdKuma",
-        "x": -13,
-        "y": 85,
-        "z": -953
+        "hovertext": "Spawn point of None",
+        "text": "Spawn point of None",
+        "x": -90,
+        "y": 76,
+        "z": -1022
       },
       {
         "hovertext": "Spawn point of None",
@@ -131,9 +131,9 @@ var markersDB={
       {
         "hovertext": "Spawn point of Minnxique",
         "text": "Spawn point of Minnxique",
-        "x": -366,
-        "y": 63,
-        "z": -1070
+        "x": -376,
+        "y": 64,
+        "z": -1053
       },
       {
         "hovertext": "Spawn point of None",
@@ -145,7 +145,7 @@ var markersDB={
       {
         "hovertext": "Spawn point of HoangTheBoss",
         "text": "Spawn point of HoangTheBoss",
-        "x": -10,
+        "x": -9,
         "y": 85,
         "z": -953
       },
@@ -179,16 +179,16 @@ var markersDB={
       }
     ]
   },
-  "Player_Spawnsb6d4_dd6c": {
+  "Player_Spawnsfacb_971b": {
     "created": false,
     "name": "Player Spawns",
     "raw": [
       {
         "hovertext": "Spawn point of None",
         "text": "Spawn point of None",
-        "x": -218,
-        "y": 65,
-        "z": -848
+        "x": -49,
+        "y": 70,
+        "z": -948
       },
       {
         "hovertext": "Spawn point of None",
@@ -198,11 +198,11 @@ var markersDB={
         "z": -991
       },
       {
-        "hovertext": "Spawn point of WeirdKuma",
-        "text": "Spawn point of WeirdKuma",
-        "x": -13,
-        "y": 85,
-        "z": -953
+        "hovertext": "Spawn point of None",
+        "text": "Spawn point of None",
+        "x": -90,
+        "y": 76,
+        "z": -1022
       },
       {
         "hovertext": "Spawn point of None",
@@ -221,9 +221,9 @@ var markersDB={
       {
         "hovertext": "Spawn point of Minnxique",
         "text": "Spawn point of Minnxique",
-        "x": -366,
-        "y": 63,
-        "z": -1070
+        "x": -376,
+        "y": 64,
+        "z": -1053
       },
       {
         "hovertext": "Spawn point of None",
@@ -235,7 +235,7 @@ var markersDB={
       {
         "hovertext": "Spawn point of HoangTheBoss",
         "text": "Spawn point of HoangTheBoss",
-        "x": -10,
+        "x": -9,
         "y": 85,
         "z": -953
       },
@@ -269,16 +269,16 @@ var markersDB={
       }
     ]
   },
-  "Player_Spawnsb6d4_fd9d": {
+  "Player_Spawnsfacb_d6c9": {
     "created": false,
     "name": "Player Spawns",
     "raw": [
       {
         "hovertext": "Spawn point of None",
         "text": "Spawn point of None",
-        "x": -218,
-        "y": 65,
-        "z": -848
+        "x": -49,
+        "y": 70,
+        "z": -948
       },
       {
         "hovertext": "Spawn point of None",
@@ -288,11 +288,11 @@ var markersDB={
         "z": -991
       },
       {
-        "hovertext": "Spawn point of WeirdKuma",
-        "text": "Spawn point of WeirdKuma",
-        "x": -13,
-        "y": 85,
-        "z": -953
+        "hovertext": "Spawn point of None",
+        "text": "Spawn point of None",
+        "x": -90,
+        "y": 76,
+        "z": -1022
       },
       {
         "hovertext": "Spawn point of None",
@@ -311,9 +311,9 @@ var markersDB={
       {
         "hovertext": "Spawn point of Minnxique",
         "text": "Spawn point of Minnxique",
-        "x": -366,
-        "y": 63,
-        "z": -1070
+        "x": -376,
+        "y": 64,
+        "z": -1053
       },
       {
         "hovertext": "Spawn point of None",
@@ -325,7 +325,7 @@ var markersDB={
       {
         "hovertext": "Spawn point of HoangTheBoss",
         "text": "Spawn point of HoangTheBoss",
-        "x": -10,
+        "x": -9,
         "y": 85,
         "z": -953
       },
