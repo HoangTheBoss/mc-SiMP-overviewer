@@ -27,7 +27,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1655111298",
+        "cacheTag": "1655113961",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -49,7 +49,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "simp - overworld",
-            "last_rendertime": 1655100004,
+            "last_rendertime": 1655111285,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
@@ -65,9 +65,7 @@ var overviewerConfig = {
                 161,
                 -70
             ],
-            "north_direction": 2,
-            "render_in_progress": true,
-            "forcerendertime": 1655111279
+            "north_direction": 2
         },
         {
             "name": "Overwold Daytime Flipped",
@@ -78,7 +76,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "simp - overworld",
-            "last_rendertime": 1655100004,
+            "last_rendertime": 1655111285,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
@@ -94,9 +92,7 @@ var overviewerConfig = {
                 161,
                 -70
             ],
-            "north_direction": 0,
-            "render_in_progress": true,
-            "forcerendertime": 1655111293
+            "north_direction": 0
         },
         {
             "name": "Overwold Nighttime",
@@ -107,7 +103,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "simp - overworld",
-            "last_rendertime": 1655100006,
+            "last_rendertime": 1655111285,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
@@ -123,9 +119,7 @@ var overviewerConfig = {
                 161,
                 -70
             ],
-            "north_direction": 2,
-            "render_in_progress": true,
-            "forcerendertime": 1655111293
+            "north_direction": 2
         },
         {
             "name": "Overwold Nighttime Flipped",
@@ -136,7 +130,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "simp - overworld",
-            "last_rendertime": 1655100006,
+            "last_rendertime": 1655111296,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
@@ -152,9 +146,7 @@ var overviewerConfig = {
                 161,
                 -70
             ],
-            "north_direction": 0,
-            "render_in_progress": true,
-            "forcerendertime": 1655111293
+            "north_direction": 0
         }
     ]
 };
