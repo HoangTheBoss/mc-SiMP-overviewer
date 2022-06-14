@@ -1,5 +1,5 @@
 var markersDB={
-  "Player_Spawnsfacb_1dd7": {
+  "Player_Spawnsb6cb_367f": {
     "created": false,
     "name": "Player Spawns",
     "raw": [
@@ -76,9 +76,9 @@ var markersDB={
       {
         "hovertext": "Spawn point of None",
         "text": "Spawn point of None",
-        "x": -104,
-        "y": 68,
-        "z": -2149
+        "x": -101,
+        "y": 77,
+        "z": -938
       },
       {
         "hovertext": "Spawn point of None",
@@ -96,7 +96,7 @@ var markersDB={
       }
     ]
   },
-  "Player_Spawnsfacb_422e": {
+  "Player_Spawnsb6cb_4fab": {
     "created": false,
     "name": "Player Spawns",
     "raw": [
@@ -173,9 +173,9 @@ var markersDB={
       {
         "hovertext": "Spawn point of None",
         "text": "Spawn point of None",
-        "x": -104,
-        "y": 68,
-        "z": -2149
+        "x": -101,
+        "y": 77,
+        "z": -938
       },
       {
         "hovertext": "Spawn point of None",
@@ -193,7 +193,7 @@ var markersDB={
       }
     ]
   },
-  "Player_Spawnsfacb_4335": {
+  "Player_Spawnsb6cb_7e2b": {
     "created": false,
     "name": "Player Spawns",
     "raw": [
@@ -270,9 +270,9 @@ var markersDB={
       {
         "hovertext": "Spawn point of None",
         "text": "Spawn point of None",
-        "x": -104,
-        "y": 68,
-        "z": -2149
+        "x": -101,
+        "y": 77,
+        "z": -938
       },
       {
         "hovertext": "Spawn point of None",
@@ -290,7 +290,7 @@ var markersDB={
       }
     ]
   },
-  "Player_Spawnsfacb_7696": {
+  "Player_Spawnsb6cb_b8e6": {
     "created": false,
     "name": "Player Spawns",
     "raw": [
@@ -367,9 +367,9 @@ var markersDB={
       {
         "hovertext": "Spawn point of None",
         "text": "Spawn point of None",
-        "x": -104,
-        "y": 68,
-        "z": -2149
+        "x": -101,
+        "y": 77,
+        "z": -938
       },
       {
         "hovertext": "Spawn point of None",
