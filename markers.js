@@ -4,7 +4,7 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Player Spawns",
-      "groupName": "Player_Spawnsfacb_971b",
+      "groupName": "Player_Spawnsfacb_7696",
       "icon": "markers/marker_tower.png",
       "showIconInLegend": false
     }
@@ -14,7 +14,7 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Player Spawns",
-      "groupName": "Player_Spawnsfacb_d6c9",
+      "groupName": "Player_Spawnsfacb_1dd7",
       "icon": "markers/marker_tower.png",
       "showIconInLegend": false
     }
@@ -24,7 +24,7 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Player Spawns",
-      "groupName": "Player_Spawnsfacb_6719",
+      "groupName": "Player_Spawnsfacb_4335",
       "icon": "markers/marker_tower.png",
       "showIconInLegend": false
     }
@@ -34,7 +34,7 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Player Spawns",
-      "groupName": "Player_Spawnsfacb_6958",
+      "groupName": "Player_Spawnsfacb_422e",
       "icon": "markers/marker_tower.png",
       "showIconInLegend": false
     }
