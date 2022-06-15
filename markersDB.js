@@ -1,5 +1,5 @@
 var markersDB={
-  "Player_Spawnsb6cb_367f": {
+  "Player_Spawns6acb_60bb": {
     "created": false,
     "name": "Player Spawns",
     "raw": [
@@ -27,9 +27,9 @@ var markersDB={
       {
         "hovertext": "Spawn point of WeirdKuma",
         "text": "Spawn point of WeirdKuma",
-        "x": 52,
-        "y": 101,
-        "z": -71
+        "x": -396,
+        "y": 64,
+        "z": -1061
       },
       {
         "hovertext": "Spawn point of None",
@@ -51,6 +51,13 @@ var markersDB={
         "x": -396,
         "y": 64,
         "z": -1061
+      },
+      {
+        "hovertext": "Spawn point of None",
+        "text": "Spawn point of None",
+        "x": 4,
+        "y": 63,
+        "z": -1039
       },
       {
         "hovertext": "Spawn point of None",
@@ -96,7 +103,7 @@ var markersDB={
       }
     ]
   },
-  "Player_Spawnsb6cb_4fab": {
+  "Player_Spawns6acb_9ff3": {
     "created": false,
     "name": "Player Spawns",
     "raw": [
@@ -124,9 +131,9 @@ var markersDB={
       {
         "hovertext": "Spawn point of WeirdKuma",
         "text": "Spawn point of WeirdKuma",
-        "x": 52,
-        "y": 101,
-        "z": -71
+        "x": -396,
+        "y": 64,
+        "z": -1061
       },
       {
         "hovertext": "Spawn point of None",
@@ -148,6 +155,13 @@ var markersDB={
         "x": -396,
         "y": 64,
         "z": -1061
+      },
+      {
+        "hovertext": "Spawn point of None",
+        "text": "Spawn point of None",
+        "x": 4,
+        "y": 63,
+        "z": -1039
       },
       {
         "hovertext": "Spawn point of None",
@@ -193,7 +207,7 @@ var markersDB={
       }
     ]
   },
-  "Player_Spawnsb6cb_7e2b": {
+  "Player_Spawns6acb_cfa0": {
     "created": false,
     "name": "Player Spawns",
     "raw": [
@@ -221,9 +235,9 @@ var markersDB={
       {
         "hovertext": "Spawn point of WeirdKuma",
         "text": "Spawn point of WeirdKuma",
-        "x": 52,
-        "y": 101,
-        "z": -71
+        "x": -396,
+        "y": 64,
+        "z": -1061
       },
       {
         "hovertext": "Spawn point of None",
@@ -245,6 +259,13 @@ var markersDB={
         "x": -396,
         "y": 64,
         "z": -1061
+      },
+      {
+        "hovertext": "Spawn point of None",
+        "text": "Spawn point of None",
+        "x": 4,
+        "y": 63,
+        "z": -1039
       },
       {
         "hovertext": "Spawn point of None",
@@ -290,7 +311,7 @@ var markersDB={
       }
     ]
   },
-  "Player_Spawnsb6cb_b8e6": {
+  "Player_Spawns6acb_f344": {
     "created": false,
     "name": "Player Spawns",
     "raw": [
@@ -318,9 +339,9 @@ var markersDB={
       {
         "hovertext": "Spawn point of WeirdKuma",
         "text": "Spawn point of WeirdKuma",
-        "x": 52,
-        "y": 101,
-        "z": -71
+        "x": -396,
+        "y": 64,
+        "z": -1061
       },
       {
         "hovertext": "Spawn point of None",
@@ -342,6 +363,13 @@ var markersDB={
         "x": -396,
         "y": 64,
         "z": -1061
+      },
+      {
+        "hovertext": "Spawn point of None",
+        "text": "Spawn point of None",
+        "x": 4,
+        "y": 63,
+        "z": -1039
       },
       {
         "hovertext": "Spawn point of None",
