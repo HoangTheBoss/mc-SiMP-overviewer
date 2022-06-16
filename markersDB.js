@@ -1,5 +1,5 @@
 var markersDB={
-  "Player_Spawnsfacb_0b83": {
+  "Player_Spawnse2cb_184a": {
     "created": false,
     "name": "Player Spawns",
     "raw": [
@@ -27,9 +27,9 @@ var markersDB={
       {
         "hovertext": "Spawn point of WeirdKuma",
         "text": "Spawn point of WeirdKuma",
-        "x": -4844,
-        "y": 63,
-        "z": -282
+        "x": -13,
+        "y": 85,
+        "z": -953
       },
       {
         "hovertext": "Spawn point of None",
