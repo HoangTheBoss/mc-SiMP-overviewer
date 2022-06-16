@@ -27,7 +27,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1655316339",
+        "cacheTag": "1655377696",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -49,7 +49,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "simp - overworld",
-            "last_rendertime": 1655312565,
+            "last_rendertime": 1655376060,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
@@ -67,90 +67,6 @@ var overviewerConfig = {
                 -70
             ],
             "north_direction": 2
-        },
-        {
-            "name": "Overwold Daytime Flipped",
-            "zoomLevels": 8,
-            "defaultZoom": 1,
-            "maxZoom": 8,
-            "path": "overworld_day_flipped",
-            "base": "",
-            "bgcolor": "#1a1a1a",
-            "world": "simp - overworld",
-            "last_rendertime": 1655312565,
-            "imgextension": "png",
-            "isOverlay": false,
-            "poititle": "Markers",
-            "showlocationmarker": true,
-            "center": [
-                -50,
-                64,
-                -990
-            ],
-            "lastrenderversion": 2,
-            "minZoom": 0,
-            "spawn": [
-                56,
-                161,
-                -70
-            ],
-            "north_direction": 0
-        },
-        {
-            "name": "Overwold Nighttime",
-            "zoomLevels": 8,
-            "defaultZoom": 1,
-            "maxZoom": 8,
-            "path": "overworld_night",
-            "base": "",
-            "bgcolor": "#1a1a1a",
-            "world": "simp - overworld",
-            "last_rendertime": 1655312565,
-            "imgextension": "png",
-            "isOverlay": false,
-            "poititle": "Markers",
-            "showlocationmarker": true,
-            "center": [
-                -50,
-                64,
-                -990
-            ],
-            "lastrenderversion": 2,
-            "minZoom": 0,
-            "spawn": [
-                56,
-                161,
-                -70
-            ],
-            "north_direction": 2
-        },
-        {
-            "name": "Overwold Nighttime Flipped",
-            "zoomLevels": 8,
-            "defaultZoom": 1,
-            "maxZoom": 8,
-            "path": "overworld_night_flipped",
-            "base": "",
-            "bgcolor": "#1a1a1a",
-            "world": "simp - overworld",
-            "last_rendertime": 1655312565,
-            "imgextension": "png",
-            "isOverlay": false,
-            "poititle": "Markers",
-            "showlocationmarker": true,
-            "center": [
-                -50,
-                64,
-                -990
-            ],
-            "lastrenderversion": 2,
-            "minZoom": 0,
-            "spawn": [
-                56,
-                161,
-                -70
-            ],
-            "north_direction": 0
         }
     ]
 };
