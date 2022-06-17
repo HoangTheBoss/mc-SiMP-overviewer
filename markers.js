@@ -4,7 +4,7 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Player Spawns",
-      "groupName": "Player_Spawnse2cb_184a",
+      "groupName": "Player_Spawns2ecb_de0f",
       "icon": "markers/marker_tower.png",
       "showIconInLegend": false
     }

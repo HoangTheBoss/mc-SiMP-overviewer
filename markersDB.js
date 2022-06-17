@@ -1,14 +1,14 @@
 var markersDB={
-  "Player_Spawnse2cb_184a": {
+  "Player_Spawns2ecb_de0f": {
     "created": false,
     "name": "Player Spawns",
     "raw": [
       {
         "hovertext": "Spawn point of None",
         "text": "Spawn point of None",
-        "x": -218,
-        "y": 65,
-        "z": -848
+        "x": -211,
+        "y": 68,
+        "z": -946
       },
       {
         "hovertext": "Spawn point of None",
@@ -55,9 +55,9 @@ var markersDB={
       {
         "hovertext": "Spawn point of None",
         "text": "Spawn point of None",
-        "x": 4,
-        "y": 63,
-        "z": -1039
+        "x": 0,
+        "y": 25,
+        "z": -1036
       },
       {
         "hovertext": "Spawn point of None",
